@@ -7,6 +7,7 @@ document.getElementById('addButton').addEventListener('click', function() {
     }
 
     const taskList = document.getElementById('taskList');
+    const a = document.getElementById('taskList');
     
     
     const listItem = document.createElement('li');
